@@ -1,0 +1,1 @@
+Is Pascal's Triangle really a triangle?
